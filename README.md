@@ -1,6 +1,20 @@
-# Genetic Algorithm
+# Genetic Algorithm for PCB ( Python )
 
-Python implementation of genetic algorithm with the purpose of optimizing PCB paths.
+---
+
+Project written in **[ 2021 ]** as part of "Artificial Intelligence" course at Wrocław University of Science and Technology.
+
+---
+
+#### Technologies
+
+- Language: **Python**
+
+---
+
+#### Description
+
+Implementation of Genetic algorithm optimizing PCB paths.
 
 Configuration properties can be set in **Config.py** file.
 
